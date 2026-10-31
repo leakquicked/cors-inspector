@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/cors-inspector/actions/workflows/python-checks.yml/badge.svg)
+
 # CORS Inspector
 
 Review copied CORS response headers for permissive combinations.
